@@ -1,7 +1,7 @@
 # encoding: utf-8
 
 Gem::Specification.new do |gem|
-  gem.add_dependency 'httparty', ['>= 0.11.0', '<= 0.12.0']
+  gem.add_dependency 'httparty', ['>= 0.11.0', '<= 0.13.1']
   gem.add_development_dependency 'json', '~> 1.8', '>= 1.8.1'
   gem.add_development_dependency 'rake', '~> 10.1', '>= 10.1.1'
   gem.add_development_dependency 'rspec',  '~> 2.14', '>= 2.14.1'
